@@ -2,7 +2,7 @@
 Summary:	Vim plugin: NERD tree
 Name:		vim-plugin-%{plugin}
 Version:	4.10
-Release:	0.1
+Release:	1
 License:	WTFPL v2 (free, redistributable)
 Group:		Applications/Editors/Vim
 Source0:	http://www.vim.org/scripts/download_script.php?src_id=11834#/%{plugin}.zip
