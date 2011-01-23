@@ -8,6 +8,7 @@ Group:		Applications/Editors/Vim
 Source0:	http://www.vim.org/scripts/download_script.php?src_id=11834#/%{plugin}.zip
 # Source0-md5:	a15fa66b36c3261e598d93dc830398f6
 URL:		http://www.vim.org/scripts/script.php?script_id=1658
+BuildRequires:	unzip
 # for _vimdatadir
 Requires:	vim-rt >= 4:7.2.170
 BuildArch:	noarch
